@@ -8,6 +8,7 @@
 - Python
 - C++
 - R
+- MATLAB
   
 # Education
 ### Bachelor of Arts - Columbia University:
