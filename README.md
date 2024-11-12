@@ -2,7 +2,7 @@
 ### Working to become a Data Scientist
 - ✨ Graduate student of Data Science at The City College of New York
 - 🌱 BA in Astrophysics from Columbia University
-- 💬 Currently learning Advance SQL and R
+- 💬 Currently learning Advanced SQL and R
 
 # Programming Languages:
 - Python
