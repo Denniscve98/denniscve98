@@ -1,20 +1,23 @@
 # Hi there, I'm Dennis 👋
 ### Working to become a Data Scientist
-- ✨ Undergraduate student at Columbia University
-- 🌱 I’m currently learning Python to specialize in Data Science
-- 💬 Let's understand the universe through code 
+- ✨ Graduate student of Data Science at The City College of New York
+- 🌱 BA in Astrophysics from Columbia University
+- 💬 Currently learning Advance SQL and R
 
 # Programming Languages:
 - Python
 - C++
+- PostgreSQL
 - R
 - MATLAB
   
 # Education
+
+### Master of Science - The City College of New York
+⚡ Major: Data Science and Engineering
+
 ### Bachelor of Arts - Columbia University:
 ⚡ Major: Astrophysics
-
-⚡ Concentration: Mathematics
 
 ### Associate in Science - Borough of Manhattan Community College (BMCC):
 ⚡ Major: Engineering Science
