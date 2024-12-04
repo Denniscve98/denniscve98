@@ -1,8 +1,8 @@
-# Hi there, I'm Dennis 👋
-### Working to become a Data Scientist
-- ✨ Graduate student of Data Science at The City College of New York
+# Hello, I'm Dennis 👋
+### Entry-level Data Analyst
+- ✨ Graduate student of Data Science and Engineering at The City College of New York
 - 🌱 BA in Astrophysics from Columbia University
-- 💬 Currently learning Advanced SQL and R
+- 💬 Expertise in Python, SQL and R.
 
 # Programming Languages:
 - Python
